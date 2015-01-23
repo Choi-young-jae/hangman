@@ -7,4 +7,4 @@ python:
 #-pip install coverage
 #-pip install python-coveralls
 script:
-- python3 ./test.p
+- python3 ./test.py
